@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9a81d411480943a26937bd732833b, type: 3}
+  m_Name: WindowRandomAssets
+  m_EditorClassIdentifier: 
+  dirtSprites:
+  - {fileID: 21300000, guid: dfbe7c517f5fdb14aba77cfb5043ddd3, type: 3}
+  - {fileID: 21300000, guid: bfe27fe1edf27c444b626dee9372de94, type: 3}
+  - {fileID: 21300000, guid: ae7684f1e4bf7214daf82b48968da246, type: 3}
+  personAnimatorControllers:
+  - {fileID: 9100000, guid: 6513b1e09b4bf6045a8ec31fed30042d, type: 2}
+  - {fileID: 9100000, guid: 774d69cc9e63bd8459c099a7b1335e52, type: 2}
+  - {fileID: 9100000, guid: b50eff223b0f24349987ac2ff6559967, type: 2}
+  - {fileID: 9100000, guid: cceaecda395c905458c3877665e96dad, type: 2}
+  backgroundSprites:
+  - {fileID: 21300000, guid: 0d8c83c891987c4419f0048e8c7f8c2c, type: 3}
+  - {fileID: 21300000, guid: 426159a69e289154896338eeec0b185f, type: 3}
+  - {fileID: 21300000, guid: 1df263d606e0b9d46a3be6c30d1e31b7, type: 3}
+  windowFrames:
+  - {fileID: 21300000, guid: 986cafb25ef621a4684aafb9642f7d33, type: 3}
+  - {fileID: 21300000, guid: e00567466e1ae2d40beaf1396c59041c, type: 3}
+  - {fileID: 21300000, guid: 117e0ab1e06b0684094f883c85d4f2cd, type: 3}
+  - {fileID: 21300000, guid: 01f92aa679b8c7b4e9584a04d098a7e9, type: 3}
+  - {fileID: 21300000, guid: 0a175d55ebabf9a44a8279356fe4ca00, type: 3}
+  - {fileID: 21300000, guid: 2425ece277e09e44eb345bacf3160eb4, type: 3}
+  - {fileID: 21300000, guid: 048427a7ac5d9f34785cb688dd0a7ac7, type: 3}
+  - {fileID: 21300000, guid: f38d00dc724308a46b03958a667c4720, type: 3}
